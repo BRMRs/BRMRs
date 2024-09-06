@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studing at XJTLU.
 - 🌱 I’m currently learning machine learning.
-- 🤔 I’m looking for help with NLP.
+- 🤔 I’m looking for help with NLP,RL,Multi-Agent.
 - 💬 Ask me about ...
 - 📫 How to reach me: miracle3reappearance@gmail.com
 - 😄 Pronouns: she/her
